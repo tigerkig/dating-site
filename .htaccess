@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+
+ RewriteEngine on
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ 
+RewriteRule ^/?index.html/([0-9]+)$ /index.php
+
+ <IfModule mod_php5.c>
+     RewriteRule ^(.*)$ index.php/$1 [L]
+ </IfModule>
+
+ <IfModule !mod_php5.c>
+     RewriteRule ^(.*)$ index.php?/$1 [L]
+ </IfModule>
+ 
+</IfModule>

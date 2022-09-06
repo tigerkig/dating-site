@@ -1,0 +1,1184 @@
+a:2:{s:6:"expire";i:1662432599;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Tue, 06 Sep 2022 01:49:52 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+<head>
+	
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The Var Vadhu - Catch Your True Match">
+<meta name="keywords" content="matrimonial">
+<meta name="author" content="The Var Vadhu - Catch Your True Match">
+<meta name="revisit-after" content="2 day(s)">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="The Var Vadhu - Catch Your True Match" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://localhost:1000/" />
+    <meta property="og:image" content="http://localhost:1000/uploads/seo_image/seo_image_facebook _default.png" />
+    <meta property="og:description" content="The Var Vadhu - Catch Your True Match" />
+    <meta property="og:site_name" content="The Var Vadhu - Catch Your True Match" />
+
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="The Var Vadhu - Catch Your True Match">
+    <meta name="twitter:title" content="The Var Vadhu - Catch Your True Match">
+    <meta name="twitter:description" content="The Var Vadhu - Catch Your True Match">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image:src" content="http://localhost:1000/uploads/seo_image/seo_image_twitter_1580622324.png">
+<!-- Page loader -->
+<script src="http://localhost:1000/template/front/vendor/pace/js/pace.min.js"></script>
+<link rel="stylesheet" href="http://localhost:1000/template/front/vendor/pace/css/pace-minimal.css" type="text/css">
+<!-- Bootstrap -->
+<link rel="stylesheet" href="http://localhost:1000/template/front/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Quicksand:400,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+<!-- Plugins -->
+<link rel="stylesheet" href="http://localhost:1000/template/front/vendor/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/vendor/hamburgers/hamburgers.min.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/vendor/animate/animate.min.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/vendor/lightgallery/css/lightgallery.min.css">
+<!-- Icons -->
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/font-awesome/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/ionicons/css/ionicons.min.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/line-icons/line-icons.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/line-icons-pro/line-icons-pro.css" type="text/css">
+<!-- Linea Icons -->
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/linea/arrows/linea-icons.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/linea/basic/linea-icons.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/linea/ecommerce/linea-icons.css" type="text/css">
+<link rel="stylesheet" href="http://localhost:1000/template/front/fonts/linea/software/linea-icons.css" type="text/css">
+<!-- Global style (main) -->
+		<link id="stylesheet" type="text/css" href="http://localhost:1000/template/front/css/global-style-red.css" rel="stylesheet" media="screen">
+	<!-- Custom style - Remove if not necessary -->
+<link type="text/css" href="http://localhost:1000/template/front/css/custom-style.css" rel="stylesheet">
+<!-- Favicon -->
+
+
+<!-- SCRIPTS -->
+<!-- Core -->
+<script src="http://localhost:1000/template/front/vendor/jquery/jquery.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', " ", 'auto');
+    ga('send', 'pageview');   
+
+    </script>
+    <!-- End Google Analytics -->
+
+
+    <!-- Favicon -->
+                <link href="http://localhost:1000/uploads/favicon/favicon_1595155647.png" rel="icon" type="image/png">
+    	<title>The Var Vadhu - Catch Your True Match</title>
+    
+		    	    	    	    		<!-- facebook chat starts -->
+		<div id="fb-root"></div>
+		<script>
+            /* Don't Del */
+		    // window.fbAsyncInit = function() {
+		    //     FB.init({
+		    //         xfbml            : true,
+		    //         version          : 'v6.0'
+		    //     });
+		    // };
+
+		    // (function(d, s, id) {
+		    //     var js, fjs = d.getElementsByTagName(s)[0];
+		    //     if (d.getElementById(id)) return;
+		    //     js = d.createElement(s); js.id = id;
+		    //     js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+		    //     fjs.parentNode.insertBefore(js, fjs);
+		    // }(document, 'script', 'facebook-jssdk'));
+		</script>
+		<div class="fb-customerchat"
+		     attribution=setup_tool
+		     page_id=""
+		      theme_color="#671861" 		      logged_in_greeting="Hello sir!"  		      logged_out_greeting="Thank You"> 		</div>
+		<!-- facebook chat ends -->
+	    
+</head>
+<body>
+    <style>
+#loading-center{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	}
+#loading-center-absolute {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: 50px;
+	width: 150px;
+	margin-top: -25px;
+	margin-left: -75px;
+
+}
+.object{
+	width: 8px;
+	height: 50px;
+	margin-right:5px;
+	background-color: white;
+	-webkit-animation: animate 1s infinite;
+	animation: animate 1s infinite;
+	float: left;
+	}
+
+.object:last-child {
+	margin-right: 0px;
+	}
+
+.object:nth-child(10){
+	-webkit-animation-delay: 0.9s;
+    animation-delay: 0.9s;	
+	}
+.object:nth-child(9){
+	-webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;	
+	}	
+.object:nth-child(8){
+	-webkit-animation-delay: 0.7s;
+    animation-delay: 0.7s;	
+	}
+.object:nth-child(7){
+	-webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;	
+	}
+.object:nth-child(6){
+	-webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;	
+	}
+.object:nth-child(5){
+	-webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+	}
+.object:nth-child(4){
+	-webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;		
+	}
+.object:nth-child(3){
+	-webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;	
+	}
+.object:nth-child(2){
+	-webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+	}						
+@-webkit-keyframes animate {
+ 
+  50% {
+	-ms-transform: scaleY(0); 
+   	-webkit-transform: scaleY(0);
+    transform: scaleY(0);	
+	}
+}
+@keyframes animate {
+  50% {
+	-ms-transform: scaleY(0); 
+   	-webkit-transform: scaleY(0);
+    transform: scaleY(0);
+	}
+}
+#loading{
+	background-color: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Undefined variable $preloader_bg</p>
+<p>Filename: front/preloader.php</p>
+<p>Line Number: 101</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Codeigniter\thevarvadhu.com\application\views\front\preloader.php<br />
+			Line: 101<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Codeigniter\thevarvadhu.com\application\views\front\index.php<br />
+			Line: 87<br />
+			Function: include			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Codeigniter\thevarvadhu.com\application\controllers\Home.php<br />
+			Line: 84<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Codeigniter\thevarvadhu.com\index.php<br />
+			Line: 316<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1050;
+	margin-top: 0px;
+	top: 0px;
+}
+</style>
+<div id="loading">
+    <div id="loading-center">
+        <div id="loading-center-absolute">
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+            <div class="object"></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+	//$(window).load(function() {
+	$(document).ready(function(e) {
+		$("#loading").delay(500).fadeOut(500);
+		$("#loading-center").click(function() {
+			$("#loading").fadeOut(500);
+		});
+	});
+</script>    
+    <div class="container">
+        <div class="row">
+            <!-- Alerts for Member actions -->
+            <div class="col-lg-3 col-md-4" id="success_alert" style="display: none; position: fixed; top: 15px; right: 0; z-index: 9999">
+                <div class="alert alert-success fade show" role="alert">
+                    <!-- Success Alert Content -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4" id="danger_alert" style="display: none; position: fixed; top: 15px; right: 0; z-index: 9999">
+                <div class="alert alert-danger fade show" role="alert">
+                    <!-- Danger Alert Content -->
+                </div>
+            </div>
+            <!-- Alerts for Member actions -->
+        </div>
+    </div>    
+	<!-- MAIN WRAPPER -->
+<div class="body-wrap">
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <div class="st-content">
+                <div class="st-content-inner">
+					<!-- Navbar -->
+					<div id="myHeader">
+						<div class="top-navbar align-items-center">
+						    <div class="container">
+						        <div class="row align-items-center py-1" style="padding-bottom: 0px !important">
+						            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 col social-nav-left" >
+	                                    <nav class="top-navbar-menu" style="margin:0px !important;">
+											<span class="top-social-icons">
+												<a href="https://www.facebook.com/The-Var-Vadhu-100599261749909/"><i class="fa fa-facebook contact-round" id="icon"></i></a>&nbsp;
+												<a href="https://www.youtube.com/channel/UCAjpcWfOmNAVRnN4j8QHJGw"><i class="fa fa-youtube contact-round" id="icon"></i></a>&nbsp;
+												<a href="https://twitter.com/ThevarVadhu"><i class="fa fa-twitter contact-round" id="icon"></i></a>&nbsp;
+												<a href="https://www.linkedin.com/company/the-varvadhu/"><i class="fa fa-linkedin contact-round" id="icon"></i></a>
+											</span>
+	                                       	                                    </nav>
+									</div> 
+                                                                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5 col">
+                                    						                <nav class="top-navbar-menu">
+							                <ul class="float-right top_bar_right">
+											
+							                </ul>
+						                </nav>
+						            </div>
+						        </div>
+						    </div>
+						</div>
+						<nav class="navbar navbar-expand-lg navbar-light bg-default navbar--link-arrow navbar--uppercase">
+						    <div class="container navbar-container">
+						        <!-- Brand/Logo -->
+						        <a class="navbar-brand" href="http://localhost:1000/home/">
+						        		                                        <img src="http://localhost:1000/uploads/header_logo/header_logo_1595155629.png" class="img-responsive theme-logo" >
+	                                    						        </a>
+						        <div class="d-inline-block">
+						            <!-- Navbar toggler  -->
+						            <button class="navbar-toggler hamburger hamburger-js hamburger--spring" type="button" data-toggle="collapse" data-target="#navbar_main" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+						            <span class="hamburger-box">
+						            <span class="hamburger-inner"></span>
+						            </span>
+						            </button>
+						        </div>
+						        <div class="collapse navbar-collapse align-items-center justify-content-end" id="navbar_main">
+						            <!-- Navbar links -->
+						            <ul class="navbar-nav" data-hover="dropdown">
+						                <li class="custom-nav">
+						                <a class="nav-link nav_active" href="http://localhost:1000/home" aria-haspopup="true" aria-expanded="false">
+						                Home</a>
+						                </li>
+										<li class="custom-nav">
+						                <a class="nav-link " href="http://localhost:1000/home/about_us">
+						                About Us</a>
+										</li>
+																				<li class="custom-nav">
+						                	<a class="nav-link " href="http://localhost:1000/home/payment" aria-haspopup="true" aria-expanded="false">
+						                Payment</a>
+						                </li>
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://localhost:1000/home/plans" aria-haspopup="true" aria-expanded="false">
+						                Premium Plans</a>
+						                </li>
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://localhost:1000/home/stories" aria-haspopup="true" aria-expanded="false">
+						                Success Stories</a>
+						                </li>
+						                <li class="custom-nav">
+						                <a class="nav-link " href="http://localhost:1000/home/contact_us" aria-haspopup="true" aria-expanded="false">
+						                Contact Us</a>
+						                </li>
+						            </ul>
+						        </div>
+						    </div>
+						</nav>
+					</div>
+					<div class="sticky-content">
+												<script type="text/javascript">
+						    $(document).ready(function () {
+						        $('.set_langs').on('click', function () {
+						            var lang_url = $(this).data('href');
+						            $.ajax({url: lang_url, success: function (result) {
+						                    location.reload();
+						                }});
+						        });
+						    });
+						</script>
+<style>
+    .blink_me {
+        animation: blinker 1.5s linear infinite;
+    }
+    @keyframes blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+</style>
+<section class="sct-color-1">
+    <div class="container-fluid no-padding">
+        <div class="row row-no-padding">
+            <style>
+    
+    .s-search label {
+        white-space: nowrap;
+    }
+    .outer-search {
+        position: absolute; top: 45%; z-index: 1; margin-left: 50px;    }
+    .btn-search {
+        border-radius: 3px !important;
+    }
+    @media (max-width: 576px) {
+        .outer-search {
+            top: auto !important; bottom: 0px; margin-left: 0px !important;
+        }
+        .btn-search {
+            margin-top: 0px !important;
+        }
+    }
+    @media (min-width: 567px) and (max-width: 991px) {
+        .outer-search {
+            position: absolute; top: auto !important; bottom: 0px !important; z-index: 1; margin-left: -25px !important;        }
+    }
+    @media (min-width: 992px) and (max-width: 1199px) {
+        .outer-search {
+            position: absolute; top: 45% !important; z-index: 1; margin-left: 1.5% !important;        }
+    }
+    @media (max-width: 1024px) {
+        .s-search {
+            margin-right: 30px;
+        }
+    }
+    @media (max-width: 420px) {
+        .s-search {
+            margin-right: 15px;
+        }
+    }
+</style>
+<div class="col-lg-12">
+    <div style="position: relative;">
+        <div class="swiper-js-container background-image-holder">
+            <div class="swiper-container" data-swiper-autoplay="true" data-swiper-effect="coverflow" data-swiper-items="1" data-swiper-space-between="0">
+                <div class="swiper-wrapper">
+                    <!-- Slide -->
+                                            <div class="swiper-slide" data-swiper-autoplay="10000">
+                            <div class="slice px-3 holder-item holder-item-light has-bg-cover bg-size-cover same-height" data-same-height="#div_properties_search" style="height: 650px; background-size: cover; background-position: center; background-image: url(http://localhost:1000/uploads/home_page/slider_image/slider_image_1.jpg); background-position: bottom bottom;">
+                            </div>
+                        </div>
+                                            <div class="swiper-slide" data-swiper-autoplay="10000">
+                            <div class="slice px-3 holder-item holder-item-light has-bg-cover bg-size-cover same-height" data-same-height="#div_properties_search" style="height: 650px; background-size: cover; background-position: center; background-image: url(http://localhost:1000/uploads/home_page/slider_image/slider_image_5.jpg); background-position: bottom bottom;">
+                            </div>
+                        </div>
+                                            <div class="swiper-slide" data-swiper-autoplay="10000">
+                            <div class="slice px-3 holder-item holder-item-light has-bg-cover bg-size-cover same-height" data-same-height="#div_properties_search" style="height: 650px; background-size: cover; background-position: center; background-image: url(http://localhost:1000/uploads/home_page/slider_image/slider_image_6.jpg); background-position: bottom bottom;">
+                            </div>
+                        </div>
+                                            <div class="swiper-slide" data-swiper-autoplay="10000">
+                            <div class="slice px-3 holder-item holder-item-light has-bg-cover bg-size-cover same-height" data-same-height="#div_properties_search" style="height: 650px; background-size: cover; background-position: center; background-image: url(http://localhost:1000/uploads/home_page/slider_image/slider_image_7.jpg); background-position: bottom bottom;">
+                            </div>
+                        </div>
+                                            <div class="swiper-slide" data-swiper-autoplay="10000">
+                            <div class="slice px-3 holder-item holder-item-light has-bg-cover bg-size-cover same-height" data-same-height="#div_properties_search" style="height: 650px; background-size: cover; background-position: center; background-image: url(http://localhost:1000/uploads/home_page/slider_image/slider_image_8.jpg); background-position: bottom bottom;">
+                            </div>
+                        </div>
+                                    </div>
+                <!-- Add Arrows -->
+                <div class="swiper-button swiper-button-next">
+                </div>
+                <div class="swiper-button swiper-button-prev">
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="outer-search">
+                <h4 class="text-white text-center mb-4">
+                    <span style="text-shadow: 4px 3px 6px #000;">The Var Vadhu - Catch Your True Match</span>
+                </h4>
+                <div class="feature feature--boxed-border feature--bg-1 z-depth-2-bottom px-3 py-4 animated animation-ended s-search" data-animation-in="zoomIn" data-animation-delay="400" style="background: #1b1e23b3;">
+                    <form class="mt-4" data-toggle="validator" role="form" action="http://localhost:1000/home/listing/home_search" method="POST" style="margin-top: 0px !important;">
+                        <div class="row">
+                                                            <div class="col-lg-2 col-md-2 col-sm-6 col-6 ml-auto">
+                                    <div class="form-group has-feedback">
+                                        <label class="text-uppercase text-white">I'm Looking For A</label>
+                                        <select name="gender" onChange="(this.value,this)" class="form-control form-control-sm selectpicker"   data-placeholder="Choose a gender" tabindex="2" data-hide-disabled="true" ><option value="">Choose one</option><option value="1" >Male</option><option value="2" >Female</option></select>                                        <span class="help-block with-errors"></span>
+                                    </div>
+                                </div>
+                                                        <div class="col-lg-1 col-md-1 col-sm-3 col-3">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase text-white">Aged From</label>
+                                    <input type="number" class="form-control form-control-sm" name="aged_from" id="aged_from" value="">
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-1 col-md-1 col-sm-3 col-3">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase text-white">To</label>
+                                    <input type="number" class="form-control form-control-sm" name="aged_to" id="aged_to" value="">
+                                </div>
+                                <div class="help-block with-errors">
+                                </div>
+                            </div>
+                            
+                                                        <div class="col-lg-2 col-md-2 col-sm-6 col-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase text-white">Religion</label>
+                                    <select name="religion" onChange="(this.value,this)" class="form-control form-control-sm selectpicker s_religion"   data-placeholder="Choose a religion" tabindex="2" data-hide-disabled="true" ><option value="">Choose one</option><option value="1" >Hindu</option><option value="2" >Muslim</option><option value="3" >Christian</option><option value="4" >Sikh</option><option value="5" >Jain</option><option value="6" >Buddhist</option><option value="7" >Spiritual</option><option value="8" >Parsi</option><option value="9" >Jewish</option><option value="10" >Inter-Religion</option><option value="11" >Others</option></select>                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-6 col-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase text-white">Caste</label>
+                                    <select  name="caste" class="form-control form-control-sm selectpicker s_caste">
+                                        <option value="">Choose A Religion First</option>
+                                    </select>
+                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="col-lg-2 col-md-2 col-sm-6 col-6">
+                                <div class="form-group has-feedback">
+                                    <label for="" class="text-uppercase text-white">Mother Tongue</label>
+                                    <select name="language" onChange="(this.value,this)" class="form-control form-control-sm selectpicker"   data-placeholder="Choose a language" tabindex="2" data-hide-disabled="true" ><option value="">Choose one</option><option value="1" >hindi</option><option value="4" >punjabi</option><option value="7" >haryanvi</option><option value="8" >himachali</option><option value="9" >kashmiri</option><option value="10" >sindhi</option><option value="11" >urdu</option><option value="12" >marathi</option><option value="13" >gujarati</option><option value="14" >konkani</option><option value="0" >kutchi</option><option value="0" >tamil</option><option value="0" >telugu</option><option value="0" >kannada</option><option value="0" >malayalam</option><option value="0" >tulu</option><option value="0" >bengali</option><option value="0" >oriya</option><option value="0" >assamese</option><option value="0" >sikkim-nepali</option><option value="0" >english</option></select>                                    <div class="help-block with-errors">
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="col-lg-2 col-md-2 col-sm-12 col-12 mr-auto">
+                                <button type="submit" class="btn btn-styled btn-sm btn-block btn-base-1 btn-search" style="padding: 6.5px 5px !important;margin-top: 29px;">Search</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</section>
+<section class="slice sct-color-1">
+    <div class="container" style="max-width:100%">
+        <img src="http://localhost:1000/uploads/home_page/parallax_image/image_3.png" alt="image" style="width:100%">
+    </div>
+    <div class="container" style="max-width:100%">
+        <img src="http://localhost:1000/uploads/home_page/parallax_image/image_1.png" alt="image" style="width:100%">
+    </div>
+	<div class="container" style="max-width:100%">
+        <img src="http://localhost:1000/uploads/home_page/parallax_image/image_2.png" alt="image" style="width:100%">
+    </div>
+</section>
+<script>
+    $(document).ready(function() {
+        setTimeout(function() {
+            set_story_box_height();
+        }, 1000);
+    });
+
+    function set_story_box_height() {
+        var max_title = 0;
+        $('.swiper-slide .story_heading').each(function() {
+            var current_height = parseInt($(this).css('height'));
+            if (current_height >= max_title) {
+                max_title = current_height;
+            }
+        });
+        $('.swiper-slide .story_heading').css('height', max_title);
+    }
+</script><section class="parallax-section parallax-section-lg pricing-plans pricing-plans--style-1 slice--offset" style="background-image: url(http://localhost:1000/uploads/home_page/premium_plans_image/premium_plans_image_1595553120.jpg)">
+    <div class="container">
+        <span class="clearfix"></span>
+        <div class="row" style="margin-top: -10px">
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" style="margin-top: 10px">
+                                        <div class="feature feature--boxed-border feature--bg-2 active package_bg">
+                        <div class="icon-block--style-1-v5 text-center">
+                            <div class="block-icon c-gray-dark">
+                                <li style="list-style-type: none;">
+                                                                        <img src="http://localhost:1000/uploads/plan_image/plan_1_thumb.png" class="img-sm" height="80">
+                                                                    </li>
+                            </div>
+                            <div class="block-content">
+                                <h3 class="heading heading-5 strong-500">Default</h3>
+                                <h3 class="price-tag" style="font-size: 26px;">INR0.00</h3>
+                                <ul class="pl-0 pr-0 mt-0">
+                                    <li class="text-line-through package_items">Express Interests: 5 Times</li>
+                                    <li class="text-line-through package_items">Direct Messages 6 Times</li>
+                                    <li class="text-line-through package_items">Photo Gallery 3 Images</li>
+                                </ul>
+                                <div class="py-2 text-center mb-2">
+                                                                        <a href="#" class="btn btn-styled btn-sm btn-base-1 btn-outline btn-circle z-depth-2-bottom">
+                                        <span class="text-line-through">Get This Package</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" style="margin-top: 10px">
+                                        <div class="feature feature--boxed-border feature--bg-2 active package_bg">
+                        <div class="icon-block--style-1-v5 text-center">
+                            <div class="block-icon c-gray-dark">
+                                <li style="list-style-type: none;">
+                                                                        <img src="http://localhost:1000/uploads/plan_image/plan_2_thumb.png" class="img-sm" height="80">
+                                                                    </li>
+                            </div>
+                            <div class="block-content">
+                                <h3 class="heading heading-5 strong-500">Bronze</h3>
+                                <h3 class="price-tag" style="font-size: 26px;">INR5,100.00</h3>
+                                <ul class="pl-0 pr-0 mt-0">
+                                    <li class="active package_items">Express Interests: 15 Times</li>
+                                    <li class="active package_items">Direct Messages 15 Times</li>
+                                    <li class="active package_items">Photo Gallery 2 Images</li>
+                                </ul>
+                                <div class="py-2 text-center mb-2">
+                                                                        <a href="http://localhost:1000/home/plans/subscribe/2" class="btn btn-styled btn-sm btn-base-1 btn-outline btn-circle z-depth-2-bottom">
+                                        <span class="active">Get This Package</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" style="margin-top: 10px">
+                                        <div class="feature feature--boxed-border feature--bg-2 active package_bg">
+                        <div class="icon-block--style-1-v5 text-center">
+                            <div class="block-icon c-gray-dark">
+                                <li style="list-style-type: none;">
+                                                                        <img src="http://localhost:1000/uploads/plan_image/plan_3_thumb.png" class="img-sm" height="80">
+                                                                    </li>
+                            </div>
+                            <div class="block-content">
+                                <h3 class="heading heading-5 strong-500">Silver</h3>
+                                <h3 class="price-tag" style="font-size: 26px;">INR6,500.00</h3>
+                                <ul class="pl-0 pr-0 mt-0">
+                                    <li class="active package_items">Express Interests: 20 Times</li>
+                                    <li class="active package_items">Direct Messages 15 Times</li>
+                                    <li class="active package_items">Photo Gallery 3 Images</li>
+                                </ul>
+                                <div class="py-2 text-center mb-2">
+                                                                        <a href="http://localhost:1000/home/plans/subscribe/3" class="btn btn-styled btn-sm btn-base-1 btn-outline btn-circle z-depth-2-bottom">
+                                        <span class="active">Get This Package</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" style="margin-top: 10px">
+                                        <div class="feature feature--boxed-border feature--bg-2 active package_bg">
+                        <div class="icon-block--style-1-v5 text-center">
+                            <div class="block-icon c-gray-dark">
+                                <li style="list-style-type: none;">
+                                                                        <img src="http://localhost:1000/uploads/plan_image/plan_4_thumb.png" class="img-sm" height="80">
+                                                                    </li>
+                            </div>
+                            <div class="block-content">
+                                <h3 class="heading heading-5 strong-500">Gold</h3>
+                                <h3 class="price-tag" style="font-size: 26px;">INR8,500.00</h3>
+                                <ul class="pl-0 pr-0 mt-0">
+                                    <li class="active package_items">Express Interests: 25 Times</li>
+                                    <li class="active package_items">Direct Messages 15 Times</li>
+                                    <li class="active package_items">Photo Gallery 5 Images</li>
+                                </ul>
+                                <div class="py-2 text-center mb-2">
+                                                                        <a href="http://localhost:1000/home/plans/subscribe/4" class="btn btn-styled btn-sm btn-base-1 btn-outline btn-circle z-depth-2-bottom">
+                                        <span class="active">Get This Package</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" style="margin-top: 10px">
+                                        <div class="feature feature--boxed-border feature--bg-2 active package_bg">
+                        <div class="icon-block--style-1-v5 text-center">
+                            <div class="block-icon c-gray-dark">
+                                <li style="list-style-type: none;">
+                                                                        <img src="http://localhost:1000/uploads/plan_image/plan_5_thumb.png" class="img-sm" height="80">
+                                                                    </li>
+                            </div>
+                            <div class="block-content">
+                                <h3 class="heading heading-5 strong-500">Platinum</h3>
+                                <h3 class="price-tag" style="font-size: 26px;">INR11,000.00</h3>
+                                <ul class="pl-0 pr-0 mt-0">
+                                    <li class="active package_items">Express Interests: 30 Times</li>
+                                    <li class="active package_items">Direct Messages 20 Times</li>
+                                    <li class="active package_items">Photo Gallery 7 Images</li>
+                                </ul>
+                                <div class="py-2 text-center mb-2">
+                                                                        <a href="http://localhost:1000/home/plans/subscribe/5" class="btn btn-styled btn-sm btn-base-1 btn-outline btn-circle z-depth-2-bottom">
+                                        <span class="active">Get This Package</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</section>
+<section class="slice bg-base-2 no-padding">
+    <div class="container">
+        <div class="container-inner sct-color-1">
+            <div class="block-card-wrapper">
+                <div class="block-card-section">
+                    <div class="" id="same_height_1">
+                        <div class="row">
+                            <div class="col-lg-6 no-padding">
+                                <div class="same-height bg-base-2" data-same-height="#same_height_1">
+                                    <center>
+                                        <div class="sct-inner px-4 py-4">
+                                            <h3 class="heading heading-5 strong-400">
+                                            Contact Information </h3>
+                                            <p class="mt-3 mb-3">
+                                                We are Available From 9am To 9pm.(Sunday To Monday)                                            </p>
+                                            <div class="icon-block--style-3 mb-1 mt-5">
+                                                <i class="icon ion-ios-telephone bg-base-4"></i>
+                                                <!--<span class="heading heading-6 strong-400">
+                                                +91 73729 90995 </span>-->
+                                                <span class="heading heading-6 strong-400">
+                                                 +91 78911 01107 </span>
+                                            </div>
+                                            <div class="icon-block--style-3 mb-3">
+                                                <i class="icon ion-ios-email bg-base-4"></i>
+                                                <!--<span class="heading heading-6 strong-400">
+                                                ravi@thevarvadhu.com </span>-->
+                                                <i class="icon ion-ios-email bg-base-4"></i>
+                                                <span class="heading heading-6 strong-400">
+                                                support@thevarvadhu.com </span>
+                                            </div>
+                                            <div class="icon-block--style-3">
+                                                <i class="icon ion-ios-location bg-base-4"></i>
+                                                <span class="heading heading-6 strong-400">
+                                                 Office No-726,7th Floor, ARG Group North Avenue, Road No-9,V.K.I Area, Sikar Road, Jaipur, Rajasthan 302013 </span>
+                                            </div>
+                                            <span class="clearfix"></span>
+                                            <a href="http://localhost:1000/home/contact_us" class="btn btn-styled btn-block btn-base-1 btn-outline btn-circle mt-5 z-depth-2-bottom" style="width: 40%;color: #FFF!important">
+                                            Contact Us</a>
+                                            <span class="clearfix"></span>
+                                            <div class="text-center">
+                                                <ul class="social-media social-media--style-1-v4 mt-4">
+                                                                                                                                                                                <li>
+                                                                    <a href="https://www.facebook.com/The-Var-Vadhu-100599261749909/" class="facebook" target="_blank" title="Facebook">
+                                                                        <i class="fa fa-facebook-square"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                                                                                            <li>
+                                                                    <a href="http://google.com" class="google-plus" target="_blank" title="Google-plus">
+                                                                        <i class="fa fa-google-plus-square"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                                                                                            <li>
+                                                                    <a href="https://twitter.com/ThevarVadhu" class="twitter" target="_blank" title="Twitter">
+                                                                        <i class="fa fa-twitter-square"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                                                                                            <li>
+                                                                    <a href="http://skype.com" class="skype" target="_blank" title="Skype">
+                                                                        <i class="fa fa-skype"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                                                                                            <li>
+                                                                    <a href="http://pinterest.com" class="pinterest" target="_blank" title="Pinterest">
+                                                                        <i class="fa fa-pinterest"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                                                                                            <li>
+                                                                    <a href="https://www.youtube.com/channel/UCAjpcWfOmNAVRnN4j8QHJGw" class="youtube" target="_blank" title="Youtube">
+                                                                        <i class="fa fa-youtube"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                                                                                            <li>
+                                                                    <a href="https://www.linkedin.com/company/the-varvadhu/" class="linkedin" target="_blank" title="Linkedin">
+                                                                        <i class="fa fa-linkedin"></i>
+                                                                    </a>
+                                                                </li>
+                                                                                                                                                                </ul>
+                                            </div>
+                                        </div>
+                                    </center>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <!-- Contact form -->
+                                <form class="form-default" role="form" method="POST" action="http://localhost:1000/home/contact_us/send">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group has-feedback">
+                                                <label for="" class="text-uppercase c-gray-light">Your Name</label>
+                                                <input type="text" name="name" class="form-control form-control-md" required="" value="">
+                                                <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group has-feedback">
+                                                <label for="" class="text-uppercase c-gray-light">Email Address</label>
+                                                <input type="email" name="email" class="form-control form-control-md" required="" value="">
+                                                <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="form-group has-feedback">
+                                                <label for="" class="text-uppercase c-gray-light">Subject</label>
+                                                <input type="text" name="subject" class="form-control form-control-md" required="" value="">
+                                                <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group has-feedback">
+                                                <label for="" class="text-uppercase c-gray-light">Message <small class="text-danger sml_txt" style="text-transform: none;">(Max 300 Characters)</small></label>
+                                                <textarea name="message" class="form-control no-resize" rows="5" required="" maxlength="300"></textarea>
+                                                <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                        <div class="mt-2 col-12">
+                                                                            </div>
+                                    <div class="">
+                                        <button type="submit" class="btn btn-styled btn-base-1 mt-4">Send Message</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container" style="max-width:100%">
+		<iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7110.342296643133!2d75.76782217529804!3d26.993135282372016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db38bfb061ef3%3A0xe19ce734a7b10b26!2sthe%20varvadhu!5e0!3m2!1sen!2sin!4v1595499468169!5m2!1sen!2sin"  height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
+</section><script src="http://localhost:1000/template/front/js/jquery.inputmask.bundle.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $(".height_mask").inputmask({
+            mask: "9.99",
+            greedy: false,
+            definitions: {
+                '*': {
+                    validator: "[0-9]"
+                }
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function(){
+        $("#aged_from").change(function(){
+            var from = parseInt($("#aged_from").val());
+            var to = parseInt($("#aged_to").val());
+            if (to < from) {
+                var to = $("#aged_to").val(from);
+            }
+        });
+        $("#aged_to").change(function(){
+            var from = parseInt($("#aged_from").val());
+            var to = parseInt($("#aged_to").val());
+            if (to < from) {
+                var to = $("#aged_to").val(from);
+            }
+        });
+    });
+
+     $(".s_religion").change(function(){
+        var religion_id = $(".s_religion").val();
+        if (religion_id == "") {
+            $(".s_caste").html("<option value=''>Choose A Religion First</option>");
+            $(".s_sub_caste").html("<option value=''>Choose A Caste First</option>");
+        } else {
+            $.ajax({
+                url: "http://localhost:1000/home/get_dropdown_by_id_caste/caste/religion_id/"+religion_id, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function(data) {
+                    $(".s_caste").html(data);
+                    $(".s_sub_caste").html("<option value=''>Choose A Caste First</option>");
+                },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+    });
+
+    $(".s_caste").change(function(){
+        var caste_id = $(".s_caste").val();
+        if (caste_id == "") {
+            $(".s_sub_caste").html("<option value=''>Choose A Caste First</option>");
+        } else {
+            $.ajax({
+                url: "http://localhost:1000/home/get_dropdown_by_id_sub_caste/sub_caste/caste_id/"+caste_id, // form action url
+                type: 'POST', // form submit method get/post
+                dataType: 'html', // request type html/json/xml
+                cache       : false,
+                contentType : false,
+                processData : false,
+                success: function (data) {
+                    if(data == false ){
+                        $(".s_sub_caste").html("<option value=''>None</option>");
+                    } else {
+                        $(".s_sub_caste").html(data);
+                    };
+               },
+                error: function(e) {
+                    console.log(e)
+                }
+            });
+        }
+    });
+</script>
+<style>
+	#footer {
+    background: #19142f !important;
+    color: rgba(255, 255, 255, 0.7) #19142f !important;
+}
+</style>
+	<footer id="footer" class="footer">
+                            <div class="footer-top">
+                                <div class="container">
+                                    <div class="row cols-xs-space cols-sm-space cols-md-space">
+                                                                                        <div class="col-md-3 col-lg-3">
+                                                    <div class="col">
+                                                        <a class="navbar-brand" href="#">
+                                                                                                                                <img src="http://localhost:1000/uploads/header_logo/header_logo_1595155629.png" class="img-responsive" width="100%">
+                                                                                                                        </a>
+                                                        
+                                                    </div>
+                                                </div>
+                                                                                    <div class="col-md-4 col-lg-4 d-none d-lg-block d-md-block">
+                                            <div class="col">
+                                                <h4 class="heading heading-xs strong-600 text-uppercase mb-1">
+                                                Main Menu</h4>
+                                                <ul class="footer-links">
+                                                    <li>
+                                                    <a href="http://localhost:1000/home" title="Home">
+                                                    Home</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://localhost:1000/home/plans" title="Premium Plans">
+                                                    Premium Plans</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://localhost:1000/home/stories" title="Happy Stories">
+                                                    Happy Stories</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://localhost:1000/home/contact_us" title="Contact Us">
+                                                    Contact Us</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-5 col-lg-5 d-none d-lg-block d-md-block">
+                                            <div class="col">
+                                                <h4 class="heading heading-xs strong-600 text-uppercase mb-1">
+                                                Quick Search</h4>
+                                                <ul class="footer-links">
+                                                    <li>
+                                                    <a href="http://localhost:1000/home/listing" title="All Members">
+                                                    All Members</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://localhost:1000/home/listing/premium_members" title="Premium Members">
+                                                    Premium Members</a>
+                                                    </li>
+                                                    <li>
+                                                    <a href="http://localhost:1000/home/listing/free_members" title="Free Members">
+                                                    Free Members</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        
+                                                                            </div>
+                                </div>
+                            </div>
+                            <div class="footer-bottom py-1">
+                                <div class="container">
+                                    <div class="row row-cols-xs-spaced flex flex-items-xs-middle">
+                                        <div class="col col-md-7">
+                                            <div class="copyright text-center text-sm-left mt-2">
+                                                 Copyright &copy; 2022 <a href="http://localhost:1000/" class="c-base-1" target="_blank" title="Webpixels - Official Website">
+                                                <strong class="strong-400">The Var Vadhu - Catch Your True Match</strong>
+                                                </a> - All Rights Reserved                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+            <!-- END: st-pusher -->
+        </div>
+        <!-- END: st-pusher -->
+    </div>
+    <!-- END: st-container -->
+</div>
+<!-- END: body-wrap --> <!-- SCRIPTS -->
+<!-- Core -->
+<script src="http://localhost:1000/template/front/vendor/popper/popper.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://localhost:1000/template/front/js/vendor/jquery.easing.js"></script>
+<script src="http://localhost:1000/template/front/js/ie10-viewport-bug-workaround.js"></script>
+<script src="http://localhost:1000/template/front/js/slidebar/slidebar.js"></script>
+<script src="http://localhost:1000/template/front/js/classie.js"></script>
+<!-- Bootstrap Extensions -->
+<script src="http://localhost:1000/template/front/vendor/bootstrap-dropdown-hover/js/bootstrap-dropdown-hover.js"></script>
+<script src="http://localhost:1000/template/front/vendor/bootstrap-notify/bootstrap-growl.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/scrollpos-styler/scrollpos-styler.js"></script>
+<!-- Plugins -->
+<script src="http://localhost:1000/template/front/vendor/flatpickr/flatpickr.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/footer-reveal/footer-reveal.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/sticky-kit/sticky-kit.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/swiper/js/swiper.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/paraxify/paraxify.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/viewport-checker/viewportchecker.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/milestone-counter/jquery.countTo.js"></script>
+<script src="http://localhost:1000/template/front/vendor/countdown/js/jquery.countdown.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/typed/typed.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/instafeed/instafeed.js"></script>
+<script src="http://localhost:1000/template/front/vendor/gradientify/jquery.gradientify.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/nouislider/js/nouislider.min.js"></script>
+<!-- Isotope -->
+<script src="http://localhost:1000/template/front/vendor/isotope/isotope.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<!-- Light Gallery -->
+<script src="http://localhost:1000/template/front/vendor/lightgallery/js/lightgallery.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="http://localhost:1000/template/front/vendor/lightgallery/js/lg-video.js"></script>
+<!-- App JS -->
+<script src="http://localhost:1000/template/front/js/wpx.app.js"></script>	<a href="#" class="btn-shadow back-to-top btn-back-to-top"></a>
+	<button class="open_modal" style="display: none">Open</button>
+</body>
+</html>
+<!-- Bootstrap Modal -->
+<div class="modal fade" id="active_modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-md" style="max-width: 400px; margin-top: 30vh;">
+        <div class="modal-content">
+            <div class="modal-header text-center" style="display: block; border-bottom: 1px solid transparent">
+                <span class="modal-title" id="modal_header">Title</span>
+                <button type="button" class="close" id="modal_close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center" id="modal_body">
+                <div class='text-center' id='payment_loader'><i class='fa fa-refresh fa-5x fa-spin'></i><p>Please Wait ...</p></div>
+            </div>
+            <div class="text-center" id="modal_buttons">
+                <button type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="cropImagePop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="modal-title" id="modal_header">Crop Photo</span>
+                <button type="button" class="close" id="modal_close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="upload-demo" class="center-block"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" id="cropImageBtn" class="btn btn-primary">Crop</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="test"></div>
+<script type="text/javascript">
+	$(document).ready(function(){
+        $('.top_bar_right').load('http://localhost:1000/home/top_bar_right');
+    });
+</script>
+<!-- Bootstrap Modal -->
+
+<script>
+    var isloggedin = "";
+
+    var right_click ="off"
+    if(right_click == "on"){
+            $('body').on('contextmenu', function(e) {
+            return false;
+        });
+    }
+
+
+    function confirm_accept(id) {
+        if (isloggedin == "") {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Please Login");
+            $("#modal_body").html("<p class='text-center'>Please Log In To Accept This Request</p>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='http://localhost:1000/home/login' class='btn btn-sm btn-base-1 btn-shadow' style='width:25%'>Log In</a>");
+        }
+        else {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Confirm Accept Request");
+            $("#modal_body").html("<p class='text-center'>Are You Sure That You Want To Accept This Request?</p>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='#' id='confirm_accept' class='btn btn-sm btn-base-1 btn-shadow' onclick='return do_accept("+id+")' style='width:25%'>Confirm</a>");
+        }
+    }
+    function do_accept(id) {
+        $("#confirm_accept").removeAttr("onclick");
+        $("#confirm_accept").html("<i class='fa fa-refresh fa-spin'></i> Processing..");
+        setTimeout(function() {
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:1000/home/accept_interest/"+id,
+                cache: false,
+                success: function(response) {
+                    $("#active_modal .close").click();
+                    $(".text_"+id).html("<small class='sml_txt'><i class='fa fa-check-circle'></i> You Have Accepted The Interest</small>");
+                    $(".text_"+id).attr('class', 'text-center text-success text_'+id);
+                    $("#success_alert").show();
+                    $(".alert-success").html("You Have Accepted The Request!");
+                    $('#danger_alert').fadeOut('fast');
+                    setTimeout(function() {
+                        $('#success_alert').fadeOut('fast');
+                    }, 5000); // <-- time in milliseconds
+                },
+                fail: function (error) {
+                    alert(error);
+                }
+            });
+        }, 500); // <-- time in milliseconds
+    }
+
+    function confirm_reject(id) {
+        if (isloggedin == "") {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Please Log In");
+            $("#modal_body").html("<p class='text-center'>Please Log In To Reject This Request</p>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='http://localhost:1000/home/login' class='btn btn-sm btn-base-1 btn-shadow' style='width:25%'>Log In</a>");
+        }
+        else {
+            $("#active_modal").modal("toggle");
+            $("#modal_header").html("Confirm Reject Request");
+            $("#modal_body").html("<p class='text-center'Are You Sure That You Want To Reject This Request?>");
+            $("#modal_buttons").html("<button type='button' class='btn btn-danger btn-sm btn-shadow' data-dismiss='modal' style='width:25%'>Close</button> <a href='#' id='confirm_reject' class='btn btn-sm btn-base-1 btn-shadow' onclick='return do_reject("+id+")' style='width:25%'>Confirm</a>");
+        }
+    }
+    function do_reject(id) {
+        $("#confirm_reject").removeAttr("onclick");
+        $("#confirm_reject").html("<i class='fa fa-refresh fa-spin'></i> Processing..");
+        setTimeout(function() {
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:1000/home/reject_interest/"+id,
+                cache: false,
+                success: function(response) {
+                    $("#active_modal .close").click();
+                    $(".text_"+id).html("<small class='sml_txt'><i class='fa fa-times-circle'></i>You Have Rejected The Interest</small>");
+                    $(".text_"+id).attr('class', 'text-center text-danger text_'+id);
+                    $("#danger_alert").show();
+                    $(".alert-danger").html("You Have Rejected This Request!");
+                    $('#success_alert').fadeOut('fast');
+                    setTimeout(function() {
+                        $('#danger_alert').fadeOut('fast');
+                    }, 5000); // <-- time in milliseconds
+                },
+                fail: function (error) {
+                    alert(error);
+                }
+            });
+        }, 500); // <-- time in milliseconds
+    }
+</script>
